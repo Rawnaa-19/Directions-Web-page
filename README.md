@@ -187,7 +187,7 @@ if(isset($_POST['button']))
 ### Database
 I have created a database with one table that has two columns the first column is the id that increaments automatically whenever a new row is added and the second column is the direction.<br><br
 
-<kbd> **Figure 2** <br><br>*Database*<br><br> <kbd>![image](https://github.com/Rawnaa-19/Directions-Web-page/assets/106926557/90ee71b9-ac4c-461f-a641-19598515fbd8)</kbd></kbd>
+<kbd> **Figure 2** <br><br>*Database*<br><br> <kbd>![image](https://github.com/Rawnaa-19/Directions-Web-page/assets/106926557/d6617388-5eb7-455b-a6db-0afe7444ab26)</kbd></kbd>
 
 ### Retrieve Code
 ```
@@ -214,7 +214,15 @@ else{
 
 ?>
 ```
-### #Retrieve Page
-The last value stored in the database is left. Therefore, the retrieve code should print out "Left".<br><br>
-<kbd> **Figure 3** <br><br>*Database Last Value*<br><br> <kbd>![image](https://github.com/Rawnaa-19/Directions-Web-page/assets/106926557/f395ddac-d433-41c5-b404-03871526b1ac)</kbd></kbd>
+### Retrieve Page
+The last value stored in the database is right. Therefore, the retrieve code should print out "Right".<br><br>
+<kbd> **Figure 3** <br><br>*Database Last Value*<br><br> <kbd>![image](https://github.com/Rawnaa-19/Directions-Web-page/assets/106926557/ade9333a-772e-4ea3-8d4d-324315438469)</kbd></kbd><br><br>
+<kbd> **Figure 4** <br><br>*Last Value Retrieved*<br><br> <kbd>![image](https://github.com/Rawnaa-19/Directions-Web-page/assets/106926557/9c1f1c45-7de9-4cc3-952c-652515860c79)</kbd></kbd>
+
+## The Final Output
+
+
+https://github.com/Rawnaa-19/Directions-Web-page/assets/106926557/954781c3-1542-4662-a207-d48a636b73b1
+
+
 
